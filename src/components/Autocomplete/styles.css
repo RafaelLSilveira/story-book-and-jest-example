@@ -1,0 +1,13 @@
+.autocomplete {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.autocomplete-medium {
+    width: 50% !important;
+}
+
+.autocomplete-small {
+    width: 30% !important;
+}
