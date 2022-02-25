@@ -66,7 +66,7 @@ You could view it in the console screen.
 
 You could learn more about ReactJS clicking here -> [ReactJS documentation](https://reactjs.org/docs/getting-started.html).
 
-To learn more about Storybook, check out the [Storybook documentation](httpshttps://storybook.js.org/docs/react/get-started/introduction).
+To learn more about Storybook, check out the [Storybook documentation](https://storybook.js.org/docs/react/get-started/introduction).
 
 ## :memo: License
 
