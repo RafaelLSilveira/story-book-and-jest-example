@@ -1,6 +1,7 @@
 {
   "name": "story-book-example",
   "version": "0.1.0",
+  "homepage": "https://rafaellsilveira.github.io/story-book-and-jest-example",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
@@ -21,7 +22,7 @@
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
     "test:generate-output": "jest --json --outputFile=.jest-test-results.json || true",
-    "predeploy": "yarn build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
