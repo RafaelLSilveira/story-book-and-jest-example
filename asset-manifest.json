@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d9057f4.css",
-    "main.js": "/static/js/main.5bea71fd.js",
-    "index.html": "/index.html",
-    "main.9d9057f4.css.map": "/static/css/main.9d9057f4.css.map",
-    "main.5bea71fd.js.map": "/static/js/main.5bea71fd.js.map"
+    "main.css": "/story-book-and-jest-example/static/css/main.9d9057f4.css",
+    "main.js": "/story-book-and-jest-example/static/js/main.5bea71fd.js",
+    "index.html": "/story-book-and-jest-example/index.html",
+    "main.9d9057f4.css.map": "/story-book-and-jest-example/static/css/main.9d9057f4.css.map",
+    "main.5bea71fd.js.map": "/story-book-and-jest-example/static/js/main.5bea71fd.js.map"
   },
   "entrypoints": [
     "static/css/main.9d9057f4.css",
