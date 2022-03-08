@@ -13,10 +13,12 @@
 
 ## Interface
 ### Sistema
-![Captura de tela 2021-05-04 202028](https://user-images.githubusercontent.com/49955909/117082352-66c5ee00-ad18-11eb-946a-02083d6a6d61.png)
+<p align="center">
+  <img alt="Cartop" src="https://user-images.githubusercontent.com/49955909/155775607-cf9dd5fa-5977-4c8e-9d5d-53ac039b372b.png">
+</p>
 
 ### Storybook
-![Captura de tela 2021-05-04 202217](https://user-images.githubusercontent.com/49955909/117082356-69284800-ad18-11eb-828c-d8822ad3b441.png)
+![cartop_img2](https://user-images.githubusercontent.com/49955909/155775627-9e98fc8f-dc85-4f48-bd6f-48f6a3726247.png)
 
 ## :wrench: Getting Started
 
@@ -64,7 +66,7 @@ You could view it in the console screen.
 
 You could learn more about ReactJS clicking here -> [ReactJS documentation](https://reactjs.org/docs/getting-started.html).
 
-To learn more about Storybook, check out the [Storybook documentation](httpshttps://storybook.js.org/docs/react/get-started/introduction).
+To learn more about Storybook, check out the [Storybook documentation](https://storybook.js.org/docs/react/get-started/introduction).
 
 ## :memo: License
 
