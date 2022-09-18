@@ -12,7 +12,7 @@
 </p>
 
 ## Interface
-### Sistema
+### System
 <p align="center">
   <img alt="Cartop" src="https://user-images.githubusercontent.com/49955909/155775607-cf9dd5fa-5977-4c8e-9d5d-53ac039b372b.png">
 </p>
